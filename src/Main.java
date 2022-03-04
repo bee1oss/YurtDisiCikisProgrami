@@ -12,9 +12,9 @@ public class Main {
         
         while (true) {
             System.out.println("*********************");
-            System.out.println(message);
-            System.out.println("*********************");
             System.out.println(sartlar);
+            System.out.println("*********************");
+            
             
             Yolcu yolcu = new Yolcu();
             
