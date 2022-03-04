@@ -1,8 +1,8 @@
 
 public interface YurtDisiKurallari {
     boolean yurtdisiHarciKontrol();
-    boolean siyasiYasak();
-    boolean vizeDurumu();
+    boolean siyasiYasakKontrol();
+    boolean vizeDurumuKontrol();
     
     
 }
